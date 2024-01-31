@@ -1,0 +1,27 @@
+[submodule "archvsync"]
+	path = archvsync
+	url = https://github.com/threatcode/archvsync
+[submodule "britney2"]
+	path = britney2
+	url = https://github.com/threatcode/britney2
+[submodule "tcboxer"]
+	path = tcboxer
+	url = https://github.com/threatcode/tcboxer
+[submodule "threat-ci-pipeline"]
+	path = threat-ci-pipeline
+	url = https://github.com/threatcode/threat-ci-pipeline
+[submodule "mirror-status"]
+	path = mirror-status
+	url = https://github.com/threatcode/mirror-status
+[submodule "mirrorbits"]
+	path = mirrorbits
+	url = https://github.com/threatcode/mirrorbits
+[submodule "mirrorbits-scripts"]
+	path = mirrorbits-scripts
+	url = https://github.com/threatcode/mirrorbits-scripts
+[submodule "packaging"]
+	path = packaging
+	url = https://github.com/threatcode/packaging
+[submodule "upstream-watch"]
+	path = upstream-watch
+	url = https://github.com/threatcode/upstream-watch
